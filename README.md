@@ -19,6 +19,9 @@ ___
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vR19fsVfxHvzjrp0kSMlzHlmyU0oeTTAcnTUT9dNe4wAEXv_2WJNViUa9qzjkvcpvkFeUCyatccINde/pub?w=1389&amp;h=410">
 
 ## <a name="project_description"></a>Project Description:
+
+ACME Insurance Inc. offers affordable health insurance to thousands of customer all over the US. I am going to estimate the annual medical expenditure for new customers, using information such as their age, sex, BMI, children, smoking habits and region of residence.
+
 [[Back to top](#top)]
 
 ***
@@ -26,7 +29,6 @@ ___
 [[Back to top](#top)]
 
 ### Project Outline:
-ACME Insurance Inc. offers affordable health insurance to thousands of customer all over the US. I am going to estimate the annual medical expenditure for new customers, using information such as their age, sex, BMI, children, smoking habits and region of residence.
 
 
         
