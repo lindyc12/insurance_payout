@@ -29,7 +29,7 @@ ACME Insurance Inc. offers affordable health insurance to thousands of customer 
 [[Back to top](#top)]
 
 ### Project Outline:
-
+I will be exploring this data to see what features correlte. 
 
         
 ### Hypothesis
