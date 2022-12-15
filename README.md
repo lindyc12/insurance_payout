@@ -33,7 +33,7 @@ I will be exploring this data to see what features correlte.
 
         
 ### Hypothesis
-
+- Does smoking effect BMI?
 
 
 ### Target variable
